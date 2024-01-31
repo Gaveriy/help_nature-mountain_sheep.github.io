@@ -431,3 +431,19 @@ body {
         max-width: 300px;
     }
 }
+
+@media (max-width: 1060px) {
+    .menu {
+        padding-left: 290px;
+    }
+}
+
+@media (max-width: 1005px) {
+    .menu {
+        padding-left: 240px;
+    }
+
+    .footer_link-box {
+        padding-right: 280px;
+    }
+}
